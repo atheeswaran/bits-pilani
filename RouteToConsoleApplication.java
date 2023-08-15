@@ -1,5 +1,12 @@
 package com.pluralsight.michaelhoffman.camel.routetoconsole;
 
+
+//CAMEL intro
+
+
+/////
+
+///
 import org.apache.camel.main.Main;
 
 public class RouteToConsoleApplication {
