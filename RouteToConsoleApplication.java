@@ -3,9 +3,9 @@ package com.pluralsight.michaelhoffman.camel.routetoconsole;
 
 //CAMEL intro
 
-
+///// hi from bash
 /////
-
+           
 ///
 import org.apache.camel.main.Main;
 
