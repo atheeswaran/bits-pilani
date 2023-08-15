@@ -8,6 +8,8 @@ import org.apache.camel.main.Main;
 
 ///serw
 
+//s/df
+
 public class RouteToConsoleApplication {
 
     /**
