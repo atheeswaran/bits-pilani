@@ -6,6 +6,8 @@ import org.apache.camel.main.Main;
 
 //// HI
 
+///
+
 public class RouteToConsoleApplication {
 
     /**
