@@ -2,10 +2,6 @@ package com.pluralsight.michaelhoffman.camel.routetoconsole;
 
 import org.apache.camel.main.Main;
 
-
-
-////dfewrrw
-
 public class RouteToConsoleApplication {
 
     /**
